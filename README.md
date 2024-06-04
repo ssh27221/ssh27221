@@ -3,7 +3,7 @@
 # S_SriHari
 
 👨‍💻 S SRI HARI
-📧 Email: ssrihari2012@gmail.com | 📧 Email: ssrihari.222sp022@nitk.edu.in
+📧 Email: ssrihari2012@gmail.com | 📧 Email: ssrihari.222sp022@nitk.edu.in <br>
 🏫 College: NITK, Surathkal | 📅 Date of Birth: 21-02-2001 <br>
 🌐 GitHub: https://github.com/ssh27221
 
